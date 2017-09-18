@@ -1,0 +1,12 @@
+# Beibei Du
+# Oct 19, 2016
+# COMP135 Naive Bayes project
+
+How to run?
+ python Naive_Bayes.py
+
+ for testing accuracy on learning curv change with training set size and testing accuracy on val of m, I use same code, just comment some code when testing.
+ 1. For testing learning curv with train set size , use splits, then set m = 0 and m = 1 
+ 	seperately, to get the accuracy result
+ 2. For testing performance with m, comment splits and related code, use m = (0.0, 0.1, 
+ 	....,10) to get accuracy list

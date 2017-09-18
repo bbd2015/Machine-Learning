@@ -1,0 +1,7 @@
+# comp135 pp4
+
+To run the code:
+
+python perceptron.py
+
+python test.py

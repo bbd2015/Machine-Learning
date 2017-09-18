@@ -1,0 +1,15 @@
+# Task 3.2, 3.3
+python kNN.py 
+
+# Task 3.4
+python kNN_selection.py
+
+#for plots
+# 3_4 figure
+python project1_3_4.py
+
+# 3_5 figure
+python project1_3_5.py
+
+#j48 figure
+python j48.py
